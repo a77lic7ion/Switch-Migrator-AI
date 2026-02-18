@@ -1,0 +1,5 @@
+{
+  "name": "RepoBridge AI",
+  "description": "Intelligent GitHub installation bridge powered by Gemini.",
+  "requestFramePermissions": []
+}
