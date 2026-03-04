@@ -7,6 +7,9 @@ Bridged syntax is just the beginning—this platform handles **dependencies, hie
 
 ---
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a2f485d0-1a54-4964-8a89-85d781d4cfa2" />
+
+
 ## 🛠️ Key Capabilities
 
 - **Intelligent Platform Detection**: Paste any config snippet, and the AI will attempt to identify the hardware model and IOS version automatically to tailor the conversion.
